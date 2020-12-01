@@ -3,7 +3,7 @@
 通过python脚本批量上除github仓库。
 
 - 生成github token
-[生成Token](https://github.com/settings/tokens/new)
+[生成Token](https://github.com/settings/tokens/new)，token权限选择“delete_repo”。
 
 - 生成的token写入clean.py
 
@@ -13,6 +13,6 @@ python环境clean.py脚本。
 
 # batch clean github repos
 
-- [generate github token](https://github.com/settings/tokens/new)
+- [generate github token](https://github.com/settings/tokens/new) and the "delete_repo" must be selected
 - setting the generated token in the clean.py file
 - write repos that want to be delete to the file: repos.txt.
