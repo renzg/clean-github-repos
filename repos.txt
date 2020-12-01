@@ -1,1 +1,1 @@
-xxxx/xxx-repos
+renzg/clean-github-repos
