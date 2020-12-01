@@ -13,6 +13,6 @@ python环境clean.py脚本。
 
 # batch clean github repos
 
-- [generate github token](https://github.com/settings/tokens/new) and the "delete_repo" must be selected
+- [generate github token](https://github.com/settings/tokens/new) and make selection for the "delete_repo" item
 - setting the generated token in the clean.py file
 - write repos that want to be delete to the file: repos.txt.
